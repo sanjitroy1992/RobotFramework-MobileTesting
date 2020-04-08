@@ -65,7 +65,7 @@ AmazonApp desire capabilities:
   "appPackage": "in.amazon.mShop.android.shopping",
   "appActivity": "com.amazon.mShop.home.HomeActivity"
 }
-OR
+----------------------------------------------------------------------------------
 BigbasketApp desire capabilities:
 {
   "automationName": "Appium",
@@ -75,3 +75,8 @@ BigbasketApp desire capabilities:
   "appPackage": "com.bigbasket.mobileapp",
   "appActivity": "com.bigbasket.mobileapp.activity.SplashActivity"
 }
+----------------------------------------------------------------------------------
+Links:
+1. Appium Desired Capabilities:http://appium.io/docs/en/writing-running-appium/caps/
+2. KeyEvent: https://developer.android.com/reference/android/view/KeyEvent
+----------------------------------------------------------------------------------
